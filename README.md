@@ -9,7 +9,7 @@ In this assignment, we were given a website by a marketing agency. It needed to 
 * CSS
 
 ## Webpage
-![Horiseo webpage]( /bootcamp/Homework/Homework-1-Refactor/assets/images/Screenshot.png)
+![Horiseo webpage]( /assets/images/Screenshot.png)
 
 ## Link to webpage
 **[Horiseo](https://sitmeister.github.io/Homework-1-Refactor/)**
